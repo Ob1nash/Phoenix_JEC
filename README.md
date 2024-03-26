@@ -1,4 +1,4 @@
-# first_app
+# EcoFront
 
 A new Flutter project.
 
